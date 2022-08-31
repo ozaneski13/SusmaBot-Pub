@@ -12,6 +12,10 @@ This Discord bot connects with [Arduino Uno](https://www.arduino.cc) via [Things
 - Breadboard
 - Male and Female Jumper Cables
 
+# Circuit
+
+![Screenshot](sketch.png)
+
 # Warning 
 For security reasons, tokens in .env file is missing. You need to add your Discord guild name and your bot's token.
 
