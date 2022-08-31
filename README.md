@@ -2,7 +2,7 @@
 
 SusmaBot is a [Discord](https://discord.com) Bot made with [Python](https://www.python.org/downloads/release/python-3106/). 
 
-This Discord bot connects with [Arduino Uno](https://www.arduino.cc) via [Thingspeak](https://thingspeak.com) and It was made to monitor the water level of the user's pet with the information to be sent from the water sensor using ESP8266 WiFi module.
+This Discord bot connects with [Arduino Uno](https://www.arduino.cc) via [ThingSpeak](https://thingspeak.com) and It was made to monitor the water level of the user's pet with the information to be sent from the water sensor using ESP8266 WiFi module.
 
 # Requirements
 - Arduino Uno
