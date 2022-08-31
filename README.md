@@ -25,7 +25,7 @@ I'm currently using [Heroku](https://id.heroku.com/login) as the Discord bot's h
 ### Arduino
 - Add your WiFi name and password to Arduino code to connect with ESP8266.
 
-- Create a Thingspeak account and create new channel.
+- Create a ThingSpeak account and create new channel.
 
 - If you want to add new parameters such as tempature and so on you can add extra fields.
 
